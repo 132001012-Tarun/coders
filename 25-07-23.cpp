@@ -1,4 +1,4 @@
-// maximum consecutive one's 
+// maximum consecutive one' 
 
 // coding ninjas problem 
 
