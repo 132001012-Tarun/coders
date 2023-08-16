@@ -1,7 +1,7 @@
 // Flattening a linked list
 
 
-// intuition is to compare each cloumn recursively using dfs
+// intuition is to compare each cloumn recursively using Dfs
 
 //{ Driver Code Starts
 #include <bits/stdc++.h>
