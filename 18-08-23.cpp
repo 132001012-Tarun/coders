@@ -1,4 +1,4 @@
-// sum of subarray Minimums
+//sum of subarray Minimums
 // intuition is like untill a index previous smaller and next smaller the current index will be the smaller for all the subarray formed
 class Solution {
 public:
