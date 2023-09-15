@@ -1,5 +1,5 @@
 // Good Numbers
-
+//coding ninjas
 
 bool is_good(int k,int sum,int digit)
 {
